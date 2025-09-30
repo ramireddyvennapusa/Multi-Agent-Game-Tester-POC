@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Agent Game Tester",
+  "description": "A proof-of-concept frontend for a multi-agent system designed to test web-based puzzle and math games. It allows users to trigger planning, execution, and analysis, view detailed reports, and provide feedback to improve future test case generation through a RAG pipeline.",
+  "requestFramePermissions": []
+}
